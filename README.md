@@ -15,7 +15,7 @@ This is a python implementation of JamieBuild's "Super Tiny Compiler"
 
 Type 'python compiler.py' into a command line to run this code. You can switch out the input expression in the main function with your own to test out different outputs.
 
-## Related Implementations
+<!-- ## Related Implementations -->
 
 <!-- - [Hazbo](https://github.com/hazbo/the-super-tiny-compiler) -->
 <!-- - [ill-look-later](https://github.com/ill-look-later/mini-wasm)  -->
